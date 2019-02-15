@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WPF_file_explorer.Properties
+namespace RoyalityPoints.Properties
 {
 
 

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WPF_file_explorer
+namespace RoyalityPoints
 {
     /// <summary>
     /// Interaction logic for App.xaml
